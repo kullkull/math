@@ -1,0 +1,1 @@
+function volume = myrand(minrange,maxrange)
